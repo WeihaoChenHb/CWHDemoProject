@@ -1,0 +1,6 @@
+framework module CWHDemoProject {
+  umbrella header "CWHDemoProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
